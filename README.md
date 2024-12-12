@@ -1,0 +1,1 @@
+The idea behind this body mass index (BMI) API was to develop a simple API which anyone can use to calculate BMI by sending the weight and height with the request and the BMI comes back with the response.
